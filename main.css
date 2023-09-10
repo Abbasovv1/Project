@@ -1,0 +1,40 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    
+}
+
+
+.div{
+border: 7px solid cyan;
+border-radius: 18px;
+border-color: rgb(96, 150, 150);
+display: inline-block; 
+background-color: darkslategray;
+
+}
+
+.write{
+    font-size: 17px;
+}
+
+
+
+
+
+.h-tag,write{
+    padding: 7px;
+    
+   
+}
+
+.button{
+    border-radius: 4px;
+    border-color: aquamarine;
+    background-color: darkturquoise;
+}
+
+
